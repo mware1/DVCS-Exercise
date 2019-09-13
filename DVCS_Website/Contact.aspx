@@ -2,13 +2,13 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %></h2>
-    <p>Your contact page.</p>
+    <p>Contact me here:</p>
 
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        Northern Alberta Institute of Technology<br />
+        Edmonton, AB<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        780-471-NAIT
     </address>
 
     <address>
