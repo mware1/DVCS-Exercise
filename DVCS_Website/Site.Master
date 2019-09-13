@@ -81,6 +81,7 @@
             <hr />
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <p>Created to demonstrate Github repositories.</p>
             </footer>
         </div>
     </form>
